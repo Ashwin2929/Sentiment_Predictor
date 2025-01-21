@@ -1,1 +1,5 @@
-# Sentiment_Predictor
+# Sentiment Predictor
+
+"Sentiment Analysis Using Unsupervised and Discriminative Methods: A Comprehensive Study," details an advanced sentiment analysis project. It explores unsupervised, discriminative, and combined approaches for sentiment classification of textual reviews. The unsupervised approach uses Word2Vec for embeddings, autoencoders for dimensionality reduction, and K-Means clustering for grouping sentiments. The discriminative approach utilizes RoBERTa embeddings with logistic regression for classification, noted for its high accuracy and robust contextual understanding.
+
+The combined approach integrates the strengths of both unsupervised and discriminative methods, aiming to leverage their respective advantages. Additionally, a generative method involving a Variational Autoencoder (VAE) is discussed for generating new text data. Results indicate that while the discriminative method outperforms others in accuracy and contextual sensitivity, the combined method provides a balanced approach with substantial interpretive benefits. The study suggests future work might explore hybrid models to enhance sentiment analysis further.
